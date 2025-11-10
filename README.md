@@ -8,8 +8,17 @@
 ```bash
 winget install -e --id Python.Python.3.12
 ```
+检查安装版本
+```bash
+python --version
+```
 
 2.  **下载源码**
+
+```bash
+git clone https://github.com/vvb7456/dumpling_helper.git
+```
+或者直接在github上下载所有文件放入同一个文件夹
 
 3.  **安装依赖库**
 
